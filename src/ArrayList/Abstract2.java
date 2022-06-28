@@ -1,3 +1,6 @@
+package ArrayList;
+
+ 
 /*
  A class can have concerte methods
 */
